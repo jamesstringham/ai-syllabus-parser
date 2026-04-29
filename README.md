@@ -47,3 +47,6 @@ Syllabus Saver is a full-stack web application that helps students turn course s
 - Add calendar export
 - Add edit functionality for extracted tasks
 - Deploy frontend and backend publicly
+
+## Note
+This project was originally developed as part of a university course and has since been refactored into a standalone portfolio project.
